@@ -1,0 +1,25 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=8E:70:A3:4E:F5:EE:A2:94:5F:BB:51:22:02:10:25:F6:81:BC:6E:31%3Bcom.navigete.naviar
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.navigete.naviar
+
+    SHA-1 certificate fingerprint:
+    8E:70:A3:4E:F5:EE:A2:94:5F:BB:51:22:02:10:25:F6:81:BC:6E:31
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDSjssTYSqFLHt4cEOuQYNfefqRySdsNi8</string>
+
+</resources>
